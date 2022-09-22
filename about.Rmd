@@ -1,7 +1,7 @@
 ---
-title: "About me"
+title: "About the McAdams Lab"
 ---
 
-## Header
+## Hi!
 
-Say more about you here.
+We are a group of researchers led by Dr Tom McAdams and  based at the Social, Genetic & Developmental Psychiatry Centre, King's College London.
